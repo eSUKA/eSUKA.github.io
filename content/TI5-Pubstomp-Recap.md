@@ -3,6 +3,7 @@ Author: eSports United Karlsruhe
 Date: 2015-10-06  
 Modified: 2015-10-06  
 Category: News  
+Status: Draft  
 Subcategory: dota  
 Teaser: images/teaser1.jpg  
 Images: images/ti5-pubstomp/IMG_7082.JPG  
