@@ -1,0 +1,313 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #000;
+}
+header {
+  z-index: 1000;
+  position: fixed;
+  top: 0;
+  height: 70px;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+}
+nav {
+  position: relative;
+  width: 1200px;
+  height: 70px;
+  margin: 0 auto;
+  background: #244C7D;
+}
+nav div, nav a {
+  display: block;
+  position: relative;
+  z-index: 2;
+  float: left;
+}
+nav a.item {
+  width: 250px;
+  height: 70px;
+}
+
+nav a.item div {
+  width: 230px;
+  height: 55px;
+  padding-top: 7px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 25px;
+  padding-left: 20px;
+  color: #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  background: #000;
+  margin-bottom: 2px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding;
+  background-clip: padding-box;
+}
+
+nav a.active div {
+  color: #2584b9;
+  text-shadow: #fff;
+}
+
+nav a.item span {
+  display: block;
+  margin-top: -1px;
+  margin-left: 1px;
+  font-size: 10px;
+  color: #8f8f8f;
+}
+
+nav a.item hr {
+  position: absolute;
+  bottom: 0;
+  height: 5px;
+  background: #000;
+  border: none;
+  width: 100%;
+}
+
+nav div.logo {
+  width: 194px;
+  height: 70px;
+  text-align: center;
+  background: #000;
+}
+nav div.spacer {
+  height: 70px;
+  width: 1px;
+  background: #222;
+}
+#shineContainer {
+  position: absolute;
+  width: 250px;
+  left: 1px;
+  z-index: 1;
+  height: 70px;
+  overflow: hidden;
+}
+#shine{
+  height: 100%;
+  margin-left: 124px;
+  box-shadow: 0 0 115px 50px #2ab0ec;
+}
+#pageWrap {
+  position: relative;
+  border-left: 1px solid #202020;
+  border-right: 1px solid #202020;
+  width: 1198px;
+  margin: 70px auto 0;
+}
+#imageShow {
+  height: 300px;
+  position: relative;
+}
+#imageShow .image{
+  width: 100%;
+  height: 300px;
+  position: absolute;
+}
+#imageShow .image p.desc{
+  background: rgba(0,0,0,0.6);
+  font-family: "Open Sans", sans-serif;
+  padding: 6px 12px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 24px;
+  display: inline-block;
+  border-top-left-radius: 14px;
+}
+#imageShow .image p.desc span { color: #fff; font-size: 12px; display: inline-block; padding: 6px 12px; }
+#imageShow .image p.desc img { float: right; margin-left: 24px; }
+main {
+  min-height: 400px;
+  padding-bottom: 32px;
+}
+#sidebar {
+  float: right;
+  border-left: 1px solid #202020;
+  width: 280px;
+  min-height: 320px;
+}
+div.box {
+  color: #fff;
+  margin: 16px;
+  font-family: "Open Sans", sans-serif;
+}
+div.box.sidebar{
+  width: 885px;
+}
+article h2 {
+  padding-left: 48px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+
+article.post.category_dota h2 {
+  background-image: url(../img/category_dota.png);
+}
+
+article.post.category_league h2 {
+  background-image: url(../img/category_league.png);
+}
+
+article.post.category_csgo h2 {
+  background-image: url(../img/category_csgo.png);
+}
+
+article.post.category_hearthstone h2 {
+  background-image: url(../img/category_hearthstone.png);
+}
+
+article.post h2 span.date {
+  color: #303030;
+  float: right;
+}
+
+div.box h3 {
+}
+
+div.box hr{
+  border: none;
+  border-top: 1px solid #202020;
+  margin: 16px -4px;
+}
+
+div.article {
+  margin: 8px 16px;
+  font-size: 13px;
+}
+
+div.article p {
+  margin-bottom: 8px;
+}
+
+#line{
+  height: 4px;
+  overflow: hidden;
+  position: relative;
+  background: #244C7D;
+}
+
+#line div {
+  z-index: 2;
+  position: absolute;
+  height: 4px;
+  width: 0;
+}
+
+#line div.overlay{
+  top: 0;
+  z-index: 3;
+  height: 2px;
+  width: 100%;
+  border-top: 1px solid rgba(0,0,0,0.5);
+  border-bottom: 1px solid rgba(0,0,0,0.5);
+}
+
+#footshine1 {
+  left: 140px;
+  box-shadow: 0 0 115px 50px #2ac2ff;
+}
+
+#footshine2 {
+  left: 860px;
+  box-shadow: 0 0 185px 80px #2ab0ec;
+}
+
+footer {
+  height: 200px;
+  background: #141414;
+  font-family: "Open Sans", sans-serif;
+}
+
+footer div.col {
+  float: left;
+  width: 250px;
+  height: 100%;
+  border-left: 1px solid #202020;
+}
+
+footer a {
+  display: block;
+  width: 226px;
+  margin: 4px 4px 0;
+  color: #333;
+  padding: 8px;
+  font-size: 14px;
+  text-decoration: none;
+  border-bottom: 1px solid #202020;
+}
+
+footer a:hover {
+  background: rgba(0,0,0,0.7);
+}
+
+footer div.col.fat {
+  width: 696px;
+  height: 100%;
+  border-left: none;
+}
+
+.checkbox{
+  position: relative;
+  margin: 4px 4px 0;
+  color: #444;
+  font-size: 12px;
+  height: 32px;
+  text-decoration: none;
+  border-bottom: 1px solid #202020;
+  cursor: pointer;
+}
+
+div.checkbox span:hover{
+  background: #191919;
+}
+
+.checkbox a {
+  position: absolute;
+  float: left;
+  display: block;
+  width: 16px;
+  height: 16px;
+  padding: 8px;
+  margin-right: 8px;
+  left: 0;
+}
+
+div.checkbox:hover a, div.checkbox.all:hover span{
+  background: #191919;
+}
+
+div.checkbox.checked a{
+  background-image: url(../img/tick.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.checkbox span {
+  position: absolute;
+  display: block;
+  height: 16px;
+  padding: 8px;
+  left: 34px;
+  right: 0;
+}
+
+.checkbox.all span{
+  left: 32px;
+  padding-left: 10px;
+}
+
+.checkbox img{
+  float: right;
+  width: 16px;
+}
+
+.right { float: right; }
+
+.clear { clear: both; }
