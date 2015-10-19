@@ -1,11 +1,11 @@
 Title: Recap: The International 5 Pubstomp
 Author: eSports United Karlsruhe  
-Date: 2015-10-06  
-Modified: 2015-10-06  
+Date: 2015-10-13  
+Modified: 2015-10-13  
 Category: News  
-Status: Draft  
 Subcategory: dota  
 Teaser: images/teaser1.jpg  
+Teaser_Description: Gro&szlig;er Andrang und gute Stimmung beim The International 5 Pubstomp  
 Images: images/ti5-pubstomp/IMG_7082.JPG  
         images/ti5-pubstomp/IMG_7085.JPG  
         images/ti5-pubstomp/IMG_7115.JPG  
@@ -16,41 +16,19 @@ Images: images/ti5-pubstomp/IMG_7082.JPG
         images/ti5-pubstomp/IMG_7152.JPG  
 
 
-*For the English version of this article, please have a look [here](http://esuka.github.io/drafts/the-international-5-pubstomp-en.html).*
+Seid gegrüßt Gamerinnen und Gamer, das neue Semester steht kurz bevor und wir möchten euch zum Entspannen einen Rückblick auf das erste größere Event geben, das von uns - der Hochschulgruppe **eSports United Karlsruhe** - für euch veranstaltet wurde. 
 
-Zum fünften Mal in Folge veranstaltet Valve dieses Jahr das bedeutenste Dota 2 Turnier der Welt: **The International**.
+Am 08. August 2015 eröffneten wir um 19 Uhr offiziell das Public Viewing zum letzten Spieltag und somit dem Finale des “The International 5”-Turniers des Onlinegames Dota 2.
+Das Wetter hat super mitgespielt und so kamen schon sehr früh am Abend begeisterte Fans zum Event und nahmen auf der großflächigen Tribüne am [AKK](http://www.akk.org) Platz. 
+Auch der Würstchengrill und die Pommesfriteusen liefen bereits auf Hochtouren, um den hungrigen Fans saftige und leckere Snacks zu bieten. Wir freuen uns sehr, dass der Essensstand so gut bei euch ankam. Neben Snacks gab es aber auch reichlich zu trinken. So hatten die Gäste die Wahl zwischen üblichen Getränken wie Säfte, Wasser oder verschiedenen Biersorten zu angenehmen Studentenpreisen und eigens von uns gemixten Cocktails ganz im Dota2-Flair. Wer hierbei keine Lust auf “Clarity” hatte, konnte beispielsweise auch einen “Crystal Maiden” oder andere Sorten genießen.
+Schnell füllte sich im Laufe des Abends die Tribüne und gespannt schauten die Gäste auf unsere große Leinwand im Freien. Zu Stoßzeiten haben wir dabei etwa 350+ Zuschauer gezählt - der Hammer!
 
-Vom 3. bis zum 8. August kämpfen die besten DOTA 2 Teams in der Keyarena in Seattle um Ruhm und einen noch nie dagewesenen Preispool von über 15 Millionen Dollar.  
+Eines der Highlights beim Public Viewing war das von uns organisierte Gewinnspiel. Die Zuschauer konnten hierbei die Zeiten schätzen, wann das erste “First Blood” in den jeweiligen Spielrunden fällt und dabei tolle Preise absahnen. An dieser Stelle nochmal ein herzliches Dankeschön an Razer und Pizza.de, die uns die Preise gesponsert haben. Der Hauptpreis war hierbei eine Razer Computermaus. Auch ein Dankeschön an Red Bull - für die Gäste gab es nämlich gratis Red Bull Dosen, so lange der Vorrat reichte. ;-)
+Ein bisschen Energy war auch nötig, denn bis das letzte Spiel ausgetragen und das Team Evil Geniuses aus den USA als das beste Dota2-Team 2015 gekürt wurde, haben wir die 5 Uhr Marke geknackt (wir waren überrascht, wie viele Gäste um die Uhrzeit noch da waren!).
 
-### Veranstalter
+Rückblickend sehen wir das Pubstomp als Riesenerfolg und wir bedanken uns bei allen, die mitgeholfen haben und anwesend waren (insbesondere hierbei ein großes Dankeschön ans Team vom AKK!). Der Pubstomp des “The International 5” war unsere erste größere Veranstaltung der Hochschulgruppe und wir hoffen noch weitere coole Events für euch raushauen zu können. Dabei freuen wir uns natürlich über jede Unterstützung, die wir erhalten können, denn ganz von alleine lässt sich so eine große Veranstaltung leider nicht organisieren ;-) 
 
-Wir, die **Hochschulgruppe eSports United Karlsruhe**, übertragen die letzten drei Spieltage live um das größte Spektakel im DOTA 2 Jahr gemeinsam mit Fans aus der Region erleben zu können. Herzlich willkommen sind sowohl DOTA 1 Veteranen als auch DOTA 2 Neulinge sowie insbesondere jene, die das Phänomen DOTA kennen lernen wollen.  
+In dem Sinne wünschen wir euch allen einen guten Start ins neue Semester und GL HF.
 
-Diejenigen, die noch gerne bei der Organisation mithelfen wollen, können uns gerne anschreiben, am einfachsten per Facebook oder reddit (Links siehe unten).
+Eure HSG eSports United Karlsruhe
 
-### Veranstaltungsort
-
-Der Pubstomp findet im [AKK](http://www.akk.org/adresse.php) auf dem Campus des KIT statt.
-Getränke gibt es zu studentischen Preisen (zum Beispiel *Bier für 1,50€*). An einem Essensstand wird gearbeitet, bei Neuigkeiten dazu wird berichtet.
-
-Für den Samstag ist es bei entsprechendem Wetter geplant, die Tribüne zu verwenden. Dazu müssen Zuschauer **eigenständig Decken o. Ä.** mitbringen.
-
-**Altersbeschränkung:** Zum aktuellen Zeitpunkt scheint es so zu sein, dass die Veranstaltung 16+ bis Mitternacht ist, danach 18+. Auch hierzu wird bei Neuigkeiten berichtet.
-
-**Stream:** Der Stream findet auf Englisch statt!
-
-
-Der Eintritt ist natürlich frei!
-
-
-**Hier noch mal alle Informationen:**  
- - *Was*: Pubstomp zu The International 5, dem weltweit größten DOTA 2 Turnier  
- - *Wann:* 6. bis 8. August, jeweils ab 18:00 Uhr  
- - *Wo:* im [AKK](http://www.akk.org/adresse.php) auf dem Campus des KIT  
- - *Stream:* Der Stream wird auf Englisch laufen!  
- - *Samstag:* Bringt euch Decken o. Ä. mit, da wir wahrscheinlich die Tribüne nutzen werden!  
-
-
-Besucht auch unsere Veranstaltungseite bei [Facebook](http://www.facebook.com/events/922061171171094/922672191109992/) oder den Post auf [reddit](https://www.reddit.com/r/DotA2/comments/3bme6e/ti5_in_karlsruhe_germany/?ref=share&ref_source=link).
-
-**Hinweis:** kurzfristige Änderungen sind schneller über Facebook verfügbar. Wir werden aber versuchen, auch diese Seite zeitnah zu aktualisieren.  

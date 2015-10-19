@@ -5,6 +5,7 @@ Start_Date: 2015-08-06
 End_Date: 2015-08-08  
 Modified: 2015-07-07  
 Category: Event  
+Status: past  
 Subcategory: dota  
 Teaser: teaser1.jpg  
 Teaser_Description: Gro&szlig;er Andrang und gute Stimmung beim The International 5 Pubstomp

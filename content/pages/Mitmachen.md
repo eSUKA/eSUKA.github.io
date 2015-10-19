@@ -9,7 +9,7 @@ Date: 2015-10-05 18:15
  
  
 ## Dann mach mit!
-Komm zu einem unserer [Communitytreffen]({{SITEURL}}/pages/veranstaltungen.html) und sag uns, was du gerne übernehmen würdest.
+Komm zu einem unserer [Communitytreffen](http://www.esuka.de/pages/veranstaltungen.html) und sag uns, was du gerne übernehmen würdest.
 
 
 &nbsp;
