@@ -40,12 +40,12 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATHS = ['C:\\Users\\rausc\\Desktop\\eSUKA\\pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 
 PLUGINS = ['dateish', 'assets']
 # modified is already a date field
 DATEISH_PROPERTIES = ['Start_Date', 'End_Date']
 
 ASSET_CONFIG = (
-    ('uglifyjs_bin',  'uglifyjs'),
+    ('uglifyjs_bin',  'uglify-js/bin/uglifyjs'),
 )
