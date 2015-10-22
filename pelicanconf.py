@@ -49,3 +49,10 @@ DATEISH_PROPERTIES = ['Start_Date', 'End_Date']
 ASSET_CONFIG = (
     ('uglifyjs_bin',  'uglify-js/bin/uglifyjs'),
 )
+
+def equalstring(a, b):
+    if str(a).lower() == str(b).lower():
+        return True
+    return False
+
+JINJA_TESTS = {'equalstring': equalstring}
