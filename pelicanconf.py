@@ -9,7 +9,7 @@ def _equalstring(a, b):
         return True
     return False
 
-jinja2_env.globals['equalstring'] = _equalstring
+jinja2_env.tests['equalstring'] = _equalstring
 
 AUTHOR = 'eSUKA'
 SITENAME = 'eSUKA'
