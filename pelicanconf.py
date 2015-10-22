@@ -9,7 +9,7 @@ def _equalstring(a, b):
         return True
     return False
 
-env = Environment()
+env = Environment(extensions=['jinja2.ext.do'])
 env.tests['equalstring'] = _equalstring
 
 
@@ -59,3 +59,5 @@ DATEISH_PROPERTIES = ['Start_Date', 'End_Date']
 ASSET_CONFIG = (
     ('uglifyjs_bin',  'uglify-js/bin/uglifyjs'),
 )
+
+JINJA_EXTENSIONS =['jinja2.ext.do',]
