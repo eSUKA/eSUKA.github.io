@@ -2,16 +2,14 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from os import path
-from jinja2 import Environment, FileSystemLoader
+from jinja2 import Environment as jinja2_env
 
 def _equalstring(a, b):
     if str(a).lower() == str(b).lower():
         return True
     return False
 
-env = Environment(loader=FileSystemLoader('templates'))
-env.globals['equalstring'] = _equalstring
-
+jinja2_env.globals['equalstring'] = _equalstring
 
 AUTHOR = 'eSUKA'
 SITENAME = 'eSUKA'
