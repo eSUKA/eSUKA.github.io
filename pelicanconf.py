@@ -9,7 +9,7 @@ def _equalstring(a, b):
         return True
     return False
 
-env = Environment(loader=FileSystemLoader('.'))
+env = Environment(loader=FileSystemLoader('templates'))
 env.globals['equalstring'] = _equalstring
 
 
