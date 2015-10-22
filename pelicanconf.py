@@ -2,6 +2,16 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 from os import path
+from jinja2 import Environment, FileSystemLoader
+
+def _equalstring(a, b):
+    if str(a).lower() == str(b).lower():
+        return True
+    return False
+
+env = Environment(loader=FileSystemLoader('.'))
+env.globals['equalstring'] = _equalstring
+
 
 AUTHOR = 'eSUKA'
 SITENAME = 'eSUKA'
@@ -49,10 +59,3 @@ DATEISH_PROPERTIES = ['Start_Date', 'End_Date']
 ASSET_CONFIG = (
     ('uglifyjs_bin',  'uglify-js/bin/uglifyjs'),
 )
-
-def equalstring(a, b):
-    if str(a).lower() == str(b).lower():
-        return True
-    return False
-
-JINJA_TESTS = {'equalstring': equalstring}
