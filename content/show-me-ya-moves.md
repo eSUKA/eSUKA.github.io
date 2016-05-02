@@ -8,4 +8,9 @@ Subcategory: general
 
 [Link zur Facebook-Veranstaltung](https://www.facebook.com/events/1514963625482567/)
 
-*Weitere Informationen folgen*
+Erinnert ihr euch noch? Legitim seine Freunde verprügeln mit beliebten Charakteren aus jedermanns Kindheit? Freundschaften und Controller zerbrechen, Beziehungen enden, Scheidungen werden eingereicht, dein ehemals bester Freund ist fortan bekennender Feind.
+Geil war's! 
+Um dieses Gefühl wieder aufleben zu lassen, veranstalten WIR für EUCH ein Smash Brothers-Turnier am AKK.
+Wir hoffen auf zahlreiches Erscheinen, um mit uns diesen Epos der Videospielgeschichte in einem kleinen Turnier zu zelebrieren.
+
+_&mdash;  Max_
