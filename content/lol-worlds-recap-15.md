@@ -20,3 +20,6 @@ Neben den vielen euhphorischen Fans leistete dabei vor allem die erstklassige Vi
 Mit drei Solo-Kills zerstörte sein Last-Pick Ryze KOO im Alleingang. Danach konnte man dem Late-Game Monster nichts mehr entgegensetzen - SKT spielten ihren Vorteil souverän aus und waren Weltmeister.  
 
 Noch euphorisiert von den vergangenen Spielen endeten die Worlds für die Hochschulgruppe mit dem gemeinsamen Aufräumen und der Vernichtung von Glühwein-Restbeständen.
+
+
+_**Autor:** Lorenz Kemper_
