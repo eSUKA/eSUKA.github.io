@@ -5,6 +5,7 @@ Start_Date: 2015-12-08
 Modified: 2015-10-13  
 Category: Event  
 Subcategory: general  
+Status: past
 
 [Link zur Facebook-Veranstaltung](https://www.facebook.com/events/1514963625482567/)
 
