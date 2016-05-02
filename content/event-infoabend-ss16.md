@@ -1,4 +1,4 @@
-Title: eSUKA-Infoabend Sommersemester 2016
+Title: eSUKA-Infoabend SS2016
 Author: eSports United Karlsruhe  
 Date: 2016-05-12
 Start_Date: 2016-05-12  
