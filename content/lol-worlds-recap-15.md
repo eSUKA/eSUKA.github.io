@@ -3,7 +3,7 @@ Author: eSports United Karlsruhe
 Date: 2015-10-31  
 Modified: 2016-05-02  
 Category: News  
-Subcategory: lol  
+Subcategory: league  
 Teaser: images/teaser_default.jpg  
 Teaser_Description:   
 
